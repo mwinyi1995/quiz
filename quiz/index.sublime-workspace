@@ -1,0 +1,251 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/xampp/htdocs/project/project",
+		"/C/xampp/htdocs/uniwatch/myform.php",
+		"/C/xampp/htdocs/university/blog.php",
+		"/C/xampp/htdocs/university/edit_record.php",
+		"/C/xampp/htdocs/project/question_1.php",
+		"/C/xampp/htdocs/project/file.php",
+		"/C/xampp/htdocs/test/payment_form.php",
+		"/C/xampp/htdocs/test/Administrator/administrator_add_room.php",
+		"/C/xampp/htdocs/test/check_room_page.php",
+		"/C/xampp/htdocs/test/Administrator/admin_authentication.php",
+		"/C/xampp/htdocs/test/Administrator/add_room_demo.php",
+		"/C/xampp/htdocs/test/Administrator/add_room_check.php",
+		"/C/xampp/htdocs/test/Administrator/admin_register_room_server.php",
+		"/C/xampp/htdocs/test/Administrator/admin_student_search.php",
+		"/C/xampp/htdocs/test/Administrator/admin_manage_student.php",
+		"/C/xampp/htdocs/test/Administrator/admin_student_list_page.php",
+		"/C/xampp/htdocs/test/Administrator/administrator_room_registration_page.php",
+		"/C/xampp/htdocs/test/index.php",
+		"/C/xampp/htdocs/university/home.php",
+		"/C/xampp/htdocs/university/horizontalbar.php",
+		"/C/xampp/htdocs/test/payment.php",
+		"/C/xampp/htdocs/test/guideline_2.php",
+		"/C/xampp/htdocs/test/allocators.php",
+		"/C/xampp/htdocs/university/multiple_option.php",
+		"/C/xampp/htdocs/university/live_search_2.php",
+		"/C/xampp/htdocs/university/live_search.php",
+		"/C/xampp/htdocs/university/date_lesson.php",
+		"/D/PROJECT/project-rajabu/test/Administrator/view_room_2.php",
+		"/D/PROJECT/project-rajabu/test/Administrator/view_room.php",
+		"/C/xampp/htdocs/faima_investment/index.php",
+		"/C/xampp/htdocs/test/dompdf/autoload.inc.php",
+		"/D/PROJECT/project-rajabu/test/allocators.php",
+		"/C/xampp/htdocs/university/insert_record_1.php",
+		"/C/xampp/htdocs/university/associate.php",
+		"/C/xampp/htdocs/university/file.php",
+		"/D/PROJECT/project-rajabu/test/Administrator/administrator_search.php",
+		"/D/PROJECT/project-rajabu/test/Administrator/demo.php",
+		"/D/PROJECT/project-rajabu/test/Administrator/fetch_course.php",
+		"/D/PROJECT/project-rajabu/test/Administrator/room_search.php",
+		"/D/PROJECT/project-rajabu/test/Administrator/student_list.php",
+		"/C/xampp/htdocs/test/Administrator/student_list.php",
+		"/C/xampp/htdocs/university/delete_record.php",
+		"/C/xampp/htdocs/university/edit.php",
+		"/C/xampp/htdocs/test/Administrator/admin_student_delete.php",
+		"/C/xampp/htdocs/uniwatch/slideshow.php",
+		"/C/xampp/htdocs/uniwatch/form.php",
+		"/C/xampp/htdocs/uniwatch/index.php",
+		"/F/Program/projectrequirement-folder/www.w3schools.com/php/demo_file_readfile.php",
+		"/C/xampp/htdocs/test/Administrator/administrator_delete.php",
+		"/C/xampp/htdocs/test/Administrator/admin_student_edit.php",
+		"/F/Program/test/student_edit_profile.php",
+		"/C/xampp/htdocs/test/Administrator/footer_page.php",
+		"/C/xampp/htdocs/test/about_us.php",
+		"/C/xampp/htdocs/test/javascript/registerstudent.js",
+		"/C/xampp/htdocs/srms/srms/includes/config.php",
+		"/F/movies/xampp/htdocs/test/liveclock.php",
+		"/C/xampp/htdocs/test/Administrator/student_registration_page.php",
+		"/D/PROJECT/project-rajabu/test/about_us.php",
+		"/F/rajabu/test/about_us.php",
+		"/C/xampp/htdocs/test/database_connection.php",
+		"/C/xampp/htdocs/test/Administrator/admin_profile_page.php",
+		"/F/Program/about_us.php",
+		"/F/Program/grace/contact.php",
+		"/F/Program/project/Employee-Record-Management-System-Project/Employee Record Management System Project/erms/admin/includes/footer.php",
+		"/F/Program/grace/gump.class.php",
+		"/F/Program/grace/header.php",
+		"/C/xampp/htdocs/test/Administrator/register_student_demo.php",
+		"/F/movies/xampp/htdocs/test/Administrator/register_student_demo.php",
+		"/F/movies/xampp/htdocs/test/Administrator/student_registration_page.php",
+		"/F/movies/xampp/htdocs/test/payment_form.php",
+		"/F/movies/xampp/htdocs/test/about_us.php",
+		"/C/xampp/htdocs/srms/srms/index.php",
+		"/C/xampp/htdocs/srms/srms/dashboard.php",
+		"/C/xampp/htdocs/test/Administrator/liveclock.php",
+		"/C/xampp/htdocs/test/Administrator/administrator_edit_page.php",
+		"/C/xampp/htdocs/test/student_edit_profile.php",
+		"/C/xampp/htdocs/test/edit_profile_page.php",
+		"/C/xampp/htdocs/test/Administrator/admin_student_edit_page.php",
+		"/C/xampp/htdocs/test/Administrator/administrator_edit.php",
+		"/C/xampp/htdocs/uniwatch/tryout.php",
+		"/C/xampp/htdocs/university/image.php",
+		"/C/xampp/htdocs/university/slideshow.php",
+		"/C/xampp/htdocs/Student Result Management System/srms/index.php",
+		"/F/Program/project/Employee-Record-Management-System-Project/Employee Record Management System Project/erms/admin/welcome.php",
+		"/F/Program/project/Employee-Record-Management-System-Project/Employee Record Management System Project/erms/index.php",
+		"/C/xampp/htdocs/uniwatch/form2.php",
+		"/F/rajabu/test/images/Database1.accdb"
+	],
+	"find":
+	{
+		"height": 0.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
